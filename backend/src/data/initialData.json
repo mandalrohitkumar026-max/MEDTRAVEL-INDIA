@@ -1,0 +1,2212 @@
+{
+  "hospitals": [
+    {
+      "id": "hosp-apollo-chennai",
+      "name": "Apollo Hospitals, Greams Road",
+      "slug": "apollo-greams-road-chennai",
+      "tagline": "Pioneer of modern healthcare & cardiac care in South Asia",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "address": "21 Greams Lane, Off Greams Road, Thousand Lights, Chennai 600006",
+      "image": "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL",
+        "ISO"
+      ],
+      "establishedYear": 1983,
+      "totalBeds": 600,
+      "icuBeds": 150,
+      "specialties": [
+        "Kidney/Urology",
+        "Cardiology",
+        "Oncology",
+        "Organ Transplants",
+        "Orthopedics",
+        "Neurosurgery"
+      ],
+      "popularTreatments": [
+        "Kidney Surgery & Transplant",
+        "Coronary Artery Bypass (CABG)",
+        "Liver Transplant",
+        "Robotic Knee Replacement"
+      ],
+      "languagesSupported": [
+        "English",
+        "Bengali",
+        "Hindi",
+        "Tamil",
+        "Arabic",
+        "French",
+        "Russian"
+      ],
+      "distanceAirportKm": 15,
+      "airportDriveMinutes": 35,
+      "approxTreatmentCostRange": {
+        "minINR": 250000,
+        "maxINR": 480000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 14,
+      "transportAvailable": true,
+      "contactEmail": "chennai_intl@apollohospitals.demo",
+      "helplinePhone": "+91 44 2829 0200",
+      "verifiedPartner": true,
+      "ratingScore": 4.8,
+      "reviewCount": 342,
+      "overview": "Apollo Hospitals Greams Road is the flagship unit of Apollo Hospitals Group. Known internationally for high-volume cardiac procedures, complex living donor kidney transplants, and a dedicated International Patient Lounge offering end-to-end liaison."
+    },
+    {
+      "id": "hosp-mgm-chennai",
+      "name": "MGM Healthcare, Nelson Manickam Road",
+      "slug": "mgm-healthcare-chennai",
+      "tagline": "Asia’s premier green-certified quaternary center for renal and cardiac surgery",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "address": "New No. 72, Old No. 54, Nelson Manickam Road, Aminjikarai, Chennai 600029",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL"
+      ],
+      "establishedYear": 2019,
+      "totalBeds": 450,
+      "icuBeds": 100,
+      "specialties": [
+        "Kidney/Urology",
+        "Cardiology",
+        "Organ Transplants",
+        "Orthopedics",
+        "Neurology"
+      ],
+      "popularTreatments": [
+        "Living Donor Kidney Transplant",
+        "Robotic Prostate & Nephrectomy",
+        "Heart Transplant",
+        "Robotic Knee Replacement"
+      ],
+      "languagesSupported": [
+        "English",
+        "Bengali",
+        "Arabic",
+        "Hindi",
+        "Tamil",
+        "French"
+      ],
+      "distanceAirportKm": 14,
+      "airportDriveMinutes": 30,
+      "approxTreatmentCostRange": {
+        "minINR": 240000,
+        "maxINR": 460000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 11,
+      "transportAvailable": true,
+      "contactEmail": "international@mgmhealthcare.demo",
+      "helplinePhone": "+91 44 4524 2424",
+      "verifiedPartner": true,
+      "ratingScore": 4.8,
+      "reviewCount": 215,
+      "overview": "MGM Healthcare features South Asia’s highest rated USGBC LEED Platinum facility, equipped with 100 critical care beds, dedicated nephrology wings, and an active international patient desk for Bangladesh and Middle East travelers."
+    },
+    {
+      "id": "hosp-miot-chennai",
+      "name": "MIOT International, Manapakkam",
+      "slug": "miot-international-chennai",
+      "tagline": "Multi-specialty hospital with advanced keyhole surgery & nephrology",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "address": "4/112, Mount Poonamallee High Road, Manapakkam, Chennai 600089",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "NABH",
+        "NABL",
+        "ISO"
+      ],
+      "establishedYear": 1999,
+      "totalBeds": 1000,
+      "icuBeds": 200,
+      "specialties": [
+        "Kidney/Urology",
+        "Orthopedics",
+        "Gastroenterology",
+        "General surgery",
+        "Cardiology"
+      ],
+      "popularTreatments": [
+        "Laparoscopic Kidney Surgery",
+        "Keyhole Nephrectomy",
+        "Robotic Knee Replacement",
+        "Liver Resection"
+      ],
+      "languagesSupported": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "French",
+        "Bengali",
+        "Arabic"
+      ],
+      "distanceAirportKm": 11,
+      "airportDriveMinutes": 20,
+      "approxTreatmentCostRange": {
+        "minINR": 220000,
+        "maxINR": 420000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 16,
+      "transportAvailable": true,
+      "contactEmail": "international@miotinternational.demo",
+      "helplinePhone": "+91 44 4200 2288",
+      "verifiedPartner": true,
+      "ratingScore": 4.7,
+      "reviewCount": 184,
+      "overview": "MIOT International is situated just 11 km from Chennai International Airport, known for high-precision pinhole surgeries, renal transplant expertise, and a patient-centric care continuum."
+    },
+    {
+      "id": "hosp-fortis-gurgaon",
+      "name": "Fortis Memorial Research Institute (FMRI)",
+      "slug": "fortis-memorial-gurgaon",
+      "tagline": "Multi-super-speciality quaternary care center in Delhi NCR",
+      "city": "Delhi NCR",
+      "state": "Haryana",
+      "address": "Sector 44, Opposite HUDA City Centre Metro, Gurugram, Delhi NCR 122002",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL"
+      ],
+      "establishedYear": 2013,
+      "totalBeds": 1000,
+      "icuBeds": 210,
+      "specialties": [
+        "Oncology & Hematology",
+        "Neurosciences",
+        "Robotic Surgery",
+        "Cardiac Sciences",
+        "Pediatric Care"
+      ],
+      "popularTreatments": [
+        "Bone Marrow Transplant",
+        "Brain Tumor Resection",
+        "Robotic Prostatectomy",
+        "Pediatric Heart Surgery"
+      ],
+      "languagesSupported": [
+        "English",
+        "Arabic",
+        "Russian",
+        "Hindi",
+        "Uzbek",
+        "French"
+      ],
+      "distanceAirportKm": 17,
+      "airportDriveMinutes": 28,
+      "approxTreatmentCostRange": {
+        "minINR": 280000,
+        "maxINR": 1400000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 18,
+      "transportAvailable": true,
+      "contactEmail": "fmri.international@fortis.demo",
+      "helplinePhone": "+91 124 4962200",
+      "verifiedPartner": true,
+      "ratingScore": 4.7,
+      "reviewCount": 289,
+      "overview": "FMRI Gurugram is a state-of-the-art quaternary care hospital acclaimed for cutting-edge medical robotics, advanced radiation suites, and dedicated desks for patients from Central Asia, Middle East, and Africa."
+    },
+    {
+      "id": "hosp-medanta-gurugram",
+      "name": "Medanta — The Medicity",
+      "slug": "medanta-the-medicity-gurugram",
+      "tagline": "Integrated institute for advanced surgical and clinical excellence",
+      "city": "Delhi NCR",
+      "state": "Haryana",
+      "address": "CH Bakhtawar Singh Road, Sector 38, Gurugram, Delhi NCR 122001",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL"
+      ],
+      "establishedYear": 2009,
+      "totalBeds": 1250,
+      "icuBeds": 350,
+      "specialties": [
+        "Heart Institute",
+        "Liver & Biliary Sciences",
+        "Neurosciences",
+        "Kidney & Urology",
+        "Oncology"
+      ],
+      "popularTreatments": [
+        "Living Donor Liver Transplant",
+        "Minimally Invasive Valve Repair",
+        "Deep Brain Stimulation (DBS)",
+        "Complex Orthopedics"
+      ],
+      "languagesSupported": [
+        "English",
+        "Arabic",
+        "Hindi",
+        "Bengali",
+        "Russian",
+        "French",
+        "Swahili"
+      ],
+      "distanceAirportKm": 19,
+      "airportDriveMinutes": 30,
+      "approxTreatmentCostRange": {
+        "minINR": 270000,
+        "maxINR": 1350000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 22,
+      "transportAvailable": true,
+      "contactEmail": "medanta.intl@medanta.demo",
+      "helplinePhone": "+91 124 4141414",
+      "verifiedPartner": true,
+      "ratingScore": 4.9,
+      "reviewCount": 410,
+      "overview": "Founded by renowned cardiac surgeon Dr. Naresh Trehan, Medanta spans 43 acres with over 1,250 beds and 6 institutes-in-institute, treating tens of thousands of international patients annually."
+    },
+    {
+      "id": "hosp-narayana-bangalore",
+      "name": "Narayana Health City",
+      "slug": "narayana-health-city-bangalore",
+      "tagline": "World-renowned high-capacity cardiac and pediatric health city",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru 560099",
+      "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "ISO"
+      ],
+      "establishedYear": 2000,
+      "totalBeds": 1400,
+      "icuBeds": 280,
+      "specialties": [
+        "Adult & Pediatric Cardiology",
+        "Hematology & Bone Marrow",
+        "Neurosurgery",
+        "Organ Transplants",
+        "Oncology"
+      ],
+      "popularTreatments": [
+        "Pediatric Open Heart Surgery",
+        "Allogeneic BMT",
+        "Coronary Angioplasty",
+        "Spine Fusion"
+      ],
+      "languagesSupported": [
+        "English",
+        "Bengali",
+        "Hindi",
+        "Kannada",
+        "Tamil",
+        "Arabic",
+        "French"
+      ],
+      "distanceAirportKm": 55,
+      "airportDriveMinutes": 75,
+      "approxTreatmentCostRange": {
+        "minINR": 190000,
+        "maxINR": 950000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 15,
+      "transportAvailable": true,
+      "contactEmail": "international.nh@narayanahealth.demo",
+      "helplinePhone": "+91 80 7122 2222",
+      "verifiedPartner": true,
+      "ratingScore": 4.8,
+      "reviewCount": 375,
+      "overview": "Founded by Dr. Devi Shetty, Narayana Health City is globally recognized for high-volume cardiac surgeries with remarkable clinical efficiency, making it one of the most cost-effective centers for cardiac and pediatric surgeries."
+    },
+    {
+      "id": "hosp-kokilaben-mumbai",
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "slug": "kokilaben-ambani-hospital-mumbai",
+      "tagline": "Full-time specialist system with four-tier international accreditation",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "address": "Rao Saheb, Achutrao Patwardhan Marg, Four Bungalows, Andheri West, Mumbai 400053",
+      "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL",
+        "ISO"
+      ],
+      "establishedYear": 2009,
+      "totalBeds": 750,
+      "icuBeds": 180,
+      "specialties": [
+        "Robotic Surgery",
+        "Pediatric Cardiac Sciences",
+        "Cosmetic & Plastic Surgery",
+        "Neurology & Rehab",
+        "Cancer Care"
+      ],
+      "popularTreatments": [
+        "Da Vinci Robotic Surgery",
+        "Post-Stroke Neuro-Rehab",
+        "Aesthetic & Reconstructive Surgery",
+        "Scoliosis Correction"
+      ],
+      "languagesSupported": [
+        "English",
+        "Arabic",
+        "Hindi",
+        "Gujarati",
+        "Marathi",
+        "Russian"
+      ],
+      "distanceAirportKm": 8,
+      "airportDriveMinutes": 20,
+      "approxTreatmentCostRange": {
+        "minINR": 290000,
+        "maxINR": 1450000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 25,
+      "transportAvailable": true,
+      "contactEmail": "intl.desk@kokilabenhospitals.demo",
+      "helplinePhone": "+91 22 4269 6969",
+      "verifiedPartner": true,
+      "ratingScore": 4.7,
+      "reviewCount": 260,
+      "overview": "Kokilaben Hospital features a Full-Time Specialist System (FTSS) ensuring round-the-clock availability of senior faculty, minutes away from Mumbai International Airport."
+    },
+    {
+      "id": "hosp-max-delhi",
+      "name": "Max Super Speciality Hospital, Saket",
+      "slug": "max-super-speciality-saket-delhi",
+      "tagline": "Premier tertiary care in South Delhi with advanced surgical navigation",
+      "city": "Delhi NCR",
+      "state": "Delhi",
+      "address": "1, 2, Press Enclave Marg, Saket Institutional Area, New Delhi 110017",
+      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL"
+      ],
+      "establishedYear": 2006,
+      "totalBeds": 530,
+      "icuBeds": 120,
+      "specialties": [
+        "Cancer Institute",
+        "Cardiology",
+        "Orthopedics & Joint Replacement",
+        "Renal Sciences",
+        "Metabolic Surgery"
+      ],
+      "popularTreatments": [
+        "Bariatric Surgery",
+        "Knee Replacement",
+        "Kidney Transplant",
+        "TrueBeam Radiotherapy"
+      ],
+      "languagesSupported": [
+        "English",
+        "Arabic",
+        "Russian",
+        "Hindi",
+        "Bengali",
+        "French"
+      ],
+      "distanceAirportKm": 14,
+      "airportDriveMinutes": 30,
+      "approxTreatmentCostRange": {
+        "minINR": 260000,
+        "maxINR": 1250000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 19,
+      "transportAvailable": true,
+      "contactEmail": "saket.intl@maxhealthcare.demo",
+      "helplinePhone": "+91 11 2651 5050",
+      "verifiedPartner": true,
+      "ratingScore": 4.8,
+      "reviewCount": 312,
+      "overview": "Max Saket in South Delhi is equipped with Asia’s first intraoperative MRI (BrainSUITE) and Novalis Tx radiation system, serving thousands of international patients with dedicated language concierges."
+    },
+    {
+      "id": "hosp-yashoda-hyderabad",
+      "name": "Yashoda Hospitals, Hitec City",
+      "slug": "yashoda-hospitals-hitec-city-hyderabad",
+      "tagline": "High-tech quaternary healthcare hub in Hyderabad cyber district",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "address": "Plot No. 1, Hitec City Main Rd, Madhapur, Hyderabad 500081",
+      "image": "https://images.unsplash.com/photo-1512678080530-7760d81faba6?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "NABH",
+        "NABL",
+        "ISO"
+      ],
+      "establishedYear": 2022,
+      "totalBeds": 2000,
+      "icuBeds": 450,
+      "specialties": [
+        "Pulmonology & Lung Transplant",
+        "Robotic Oncology",
+        "Heart & Vascular",
+        "Neurosciences",
+        "Spine Surgery"
+      ],
+      "popularTreatments": [
+        "Double Lung Transplant",
+        "Bronchial Thermoplasty",
+        "Robotic Thoracic Surgery",
+        "Vascular Bypass"
+      ],
+      "languagesSupported": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Arabic",
+        "Bengali",
+        "Somali"
+      ],
+      "distanceAirportKm": 32,
+      "airportDriveMinutes": 40,
+      "approxTreatmentCostRange": {
+        "minINR": 220000,
+        "maxINR": 1100000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 20,
+      "transportAvailable": true,
+      "contactEmail": "intl@yashodahospitals.demo",
+      "helplinePhone": "+91 40 4567 4567",
+      "verifiedPartner": true,
+      "ratingScore": 4.7,
+      "reviewCount": 198,
+      "overview": "Yashoda Hitec City is one of India’s largest private medical facilities with high-volume thoracic and lung transplant centers, popular among Middle Eastern and East African patients."
+    },
+    {
+      "id": "hosp-aster-kochi",
+      "name": "Aster Medcity, Kochi",
+      "slug": "aster-medcity-kochi",
+      "tagline": "Waterfront quaternary care haven in Kerala with integrated wellness",
+      "city": "Kochi",
+      "state": "Kerala",
+      "address": "Kuttisahib Road, Near Kothad Bridge, South Chittoor, Kochi 682027",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1000&q=80",
+      "accreditations": [
+        "JCI",
+        "NABH",
+        "NABL",
+        "Green OT"
+      ],
+      "establishedYear": 2014,
+      "totalBeds": 670,
+      "icuBeds": 130,
+      "specialties": [
+        "Medical Tourism & Wellness",
+        "Pediatric Cardiology",
+        "Gastroenterology",
+        "Orthopedics",
+        "Ayurvedic Integrative Rehab"
+      ],
+      "popularTreatments": [
+        "Joint Replacement with Post-Op Wellness",
+        "Cardiac Stenting",
+        "Living Donor Kidney Transplant",
+        "Bariatric Surgery"
+      ],
+      "languagesSupported": [
+        "English",
+        "Arabic",
+        "Malayalam",
+        "Hindi",
+        "French",
+        "Russian"
+      ],
+      "distanceAirportKm": 28,
+      "airportDriveMinutes": 45,
+      "approxTreatmentCostRange": {
+        "minINR": 210000,
+        "maxINR": 1050000
+      },
+      "internationalPatientServices": {
+        "lounge": true,
+        "dedicatedCoordinator": true,
+        "interpreterAvailable": true,
+        "currencyExchangeDesk": true,
+        "visaInvitationLetters": true,
+        "halalAndDietaryFood": true,
+        "prayerRooms": true,
+        "telemedicineFollowup": true
+      },
+      "nearbyHotelsCount": 12,
+      "transportAvailable": true,
+      "contactEmail": "aster.international@asterhospital.demo",
+      "helplinePhone": "+91 484 6699999",
+      "verifiedPartner": true,
+      "ratingScore": 4.8,
+      "reviewCount": 224,
+      "overview": "Aster Medcity Kochi is situated on a serene 40-acre waterfront campus, combining quaternary surgical care with Kerala’s holistic recuperation climate, heavily preferred by patients from GCC nations."
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc-ramesh-apollo",
+      "hospitalId": "hosp-apollo-chennai",
+      "hospitalName": "Apollo Hospitals, Greams Road",
+      "city": "Chennai",
+      "name": "Dr. Ramesh Sundaram",
+      "title": "Senior Consultant & Chief Cardiothoracic Surgeon",
+      "department": "Cardiac Sciences",
+      "specialty": "Cardiothoracic & Vascular Surgery (CTVS)",
+      "areasOfExpertise": [
+        "Coronary Artery Bypass Grafting (CABG)",
+        "Off-Pump Beating Heart Surgery",
+        "Aortic Root Replacement",
+        "Minimally Invasive Valve Surgery"
+      ],
+      "experienceYears": 28,
+      "languages": [
+        "English",
+        "Bengali",
+        "Hindi",
+        "Tamil"
+      ],
+      "qualifications": [
+        "MBBS - Madras Medical College",
+        "MS (General Surgery) - AIIMS New Delhi",
+        "MCh (Cardiothoracic Surgery)",
+        "FRCS (Cardiothoracic, Edinburgh)"
+      ],
+      "consultationAvailability": "Monday to Friday: 10:00 AM – 3:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Ramesh Sundaram has over 28 years of surgical practice in adult cardiac surgery. He served as fellow at Royal Brompton Hospital, London, and leads the adult cardiac surgical team at Apollo Greams Road with dedicated international consultation sessions.",
+      "verified": true,
+      "consultationFeeINR": 2000
+    },
+    {
+      "id": "doc-priya-fmri",
+      "hospitalId": "hosp-fortis-gurgaon",
+      "hospitalName": "Fortis Memorial Research Institute (FMRI)",
+      "city": "Delhi NCR",
+      "name": "Dr. Priya Varma",
+      "title": "Director & Principal Hematologist",
+      "department": "Hematology & Bone Marrow Transplant",
+      "specialty": "Hemato-Oncology & Stem Cell Transplant",
+      "areasOfExpertise": [
+        "Autologous & Allogeneic BMT",
+        "Haploidentical Stem Cell Transplant",
+        "Acute Leukemia Management",
+        "Pediatric Thalassemia Transplant"
+      ],
+      "experienceYears": 22,
+      "languages": [
+        "English",
+        "Hindi",
+        "Arabic (Conversational)",
+        "French"
+      ],
+      "qualifications": [
+        "MBBS - Maulana Azad Medical College",
+        "MD (Medicine) - PGIMER Chandigarh",
+        "DM (Clinical Hematology) - CMC Vellore",
+        "Fellowship in BMT - Fred Hutchinson Cancer Center, Seattle"
+      ],
+      "consultationAvailability": "Tuesday, Thursday, Saturday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1594824813511-209252327c19?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Priya Varma leads the Comprehensive Blood & Marrow Transplant Unit at FMRI. Her team coordinates closely with international embassies and bone marrow registries worldwide.",
+      "verified": true,
+      "consultationFeeINR": 2500
+    },
+    {
+      "id": "doc-anand-medanta",
+      "hospitalId": "hosp-medanta-gurugram",
+      "hospitalName": "Medanta — The Medicity",
+      "city": "Delhi NCR",
+      "name": "Dr. Anand Saxena",
+      "title": "Chairman — Institute of Neurosciences",
+      "department": "Neurosciences",
+      "specialty": "Neurosurgery & Spine Surgery",
+      "areasOfExpertise": [
+        "Brain Tumor Micro-Resection",
+        "Skull Base Surgery",
+        "Endoscopic Pituitary Surgery",
+        "Cervical Disc Arthroplasty"
+      ],
+      "experienceYears": 26,
+      "languages": [
+        "English",
+        "Hindi",
+        "Russian (Basic Medical)"
+      ],
+      "qualifications": [
+        "MBBS - KGMC Lucknow",
+        "MCh (Neurosurgery) - AIIMS New Delhi",
+        "Clinical Fellow in Skull Base Surgery - Zurich University"
+      ],
+      "consultationAvailability": "Monday, Wednesday, Friday: 9:00 AM – 2:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Anand Saxena has presented peer-reviewed neurosurgical papers across 15 countries and routinely performs high-precision image-guided cranial and spinal procedures at Medanta.",
+      "verified": true,
+      "consultationFeeINR": 2500
+    },
+    {
+      "id": "doc-karthik-narayana",
+      "hospitalId": "hosp-narayana-bangalore",
+      "hospitalName": "Narayana Health City",
+      "city": "Bengaluru",
+      "name": "Dr. Karthik Narayanan",
+      "title": "Senior Consultant Joint Replacement & Orthopedics",
+      "department": "Orthopedics & Joint Reconstruction",
+      "specialty": "Robotic Joint Replacement & Arthroscopy",
+      "areasOfExpertise": [
+        "MAKO Robotic Total Knee Arthroplasty",
+        "Direct Anterior Hip Replacement",
+        "Revision Joint Reconstruction",
+        "Complex Sports Ligament Repair"
+      ],
+      "experienceYears": 20,
+      "languages": [
+        "English",
+        "Bengali",
+        "Hindi",
+        "Kannada",
+        "Tamil"
+      ],
+      "qualifications": [
+        "MBBS - Bangalore Medical College",
+        "MS (Orthopedics)",
+        "MCh Orth (Dundee, UK)",
+        "Fellowship in Adult Reconstruction - Mayo Clinic, USA"
+      ],
+      "consultationAvailability": "Monday to Saturday: 10:30 AM – 3:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Karthik Narayanan specializes in rapid-recovery robotic joint replacements, designed to allow international patients to begin safe weight-bearing ambulation within 24 hours post-procedure.",
+      "verified": true,
+      "consultationFeeINR": 1800
+    },
+    {
+      "id": "doc-meera-kokilaben",
+      "hospitalId": "hosp-kokilaben-mumbai",
+      "hospitalName": "Kokilaben Dhirubhai Ambani Hospital",
+      "city": "Mumbai",
+      "name": "Dr. Meera Merchant",
+      "title": "Director — Centre for Robotic & Urological Surgery",
+      "department": "Urology & Renal Sciences",
+      "specialty": "Uro-Oncology & Renal Transplantation",
+      "areasOfExpertise": [
+        "Robotic Partial Nephrectomy",
+        "Radical Cystectomy",
+        "Live Donor Renal Transplant",
+        "Laser Prostate Enucleation (HoLEP)"
+      ],
+      "experienceYears": 24,
+      "languages": [
+        "English",
+        "Hindi",
+        "Gujarati",
+        "Marathi",
+        "Arabic (Basic)"
+      ],
+      "qualifications": [
+        "MBBS - Seth GS Medical College & KEM Mumbai",
+        "MS (Surgery)",
+        "MCh (Urology)",
+        "DNB (Genito-Urinary Surgery)",
+        "Fellowship in Robotic Surgery (Singapore)"
+      ],
+      "consultationAvailability": "Monday, Thursday, Friday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Meera Merchant is one of western India’s most experienced robotic urological surgeons, actively directing the international clinical registry at Kokilaben Hospital Mumbai.",
+      "verified": true,
+      "consultationFeeINR": 2200
+    },
+    {
+      "id": "doc-sanjay-apollo",
+      "hospitalId": "hosp-apollo-chennai",
+      "hospitalName": "Apollo Hospitals, Greams Road",
+      "city": "Chennai",
+      "name": "Dr. Sanjay Sen",
+      "title": "Consultant Medical & Hemato-Oncologist",
+      "department": "Oncology",
+      "specialty": "Precision Oncology & Immunotherapy",
+      "areasOfExpertise": [
+        "Targeted Therapy",
+        "Solid Tumor Chemotherapy",
+        "CAR-T Cell Therapy Protocols",
+        "Molecular Tumor Board Consultations"
+      ],
+      "experienceYears": 18,
+      "languages": [
+        "English",
+        "Bengali",
+        "Hindi",
+        "Tamil"
+      ],
+      "qualifications": [
+        "MBBS - Calcutta National Medical College",
+        "MD (Medicine)",
+        "DM (Medical Oncology) - Tata Memorial Centre Mumbai",
+        "ESMO Certified Oncologist"
+      ],
+      "consultationAvailability": "Tuesday to Saturday: 10:00 AM – 2:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Sanjay Sen consults extensively with patients traveling from Bangladesh, Sri Lanka, and Oman for genomic sequencing-guided chemotherapy regimens at Apollo Chennai.",
+      "verified": true,
+      "consultationFeeINR": 2000
+    },
+    {
+      "id": "doc-rajesh-mgm",
+      "hospitalId": "hosp-mgm-chennai",
+      "hospitalName": "MGM Healthcare, Nelson Manickam Road",
+      "city": "Chennai",
+      "name": "Dr. Rajesh Sundararaman",
+      "title": "Senior Director — Institute of Renal Sciences & Organ Transplant",
+      "department": "Urology & Renal Sciences",
+      "specialty": "Kidney/Urology & Live Donor Transplant",
+      "areasOfExpertise": [
+        "Live Related Renal Transplantation",
+        "ABO-Incompatible Kidney Transplant",
+        "Robotic Donor Nephrectomy",
+        "Complex Ureteral Reconstruction"
+      ],
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi",
+        "Bengali"
+      ],
+      "qualifications": [
+        "MBBS - Stanley Medical College",
+        "MS (Surgery)",
+        "MCh (Urology) - Madras Medical College",
+        "ASTS Fellowship in Transplant Surgery - Ohio State University, USA"
+      ],
+      "consultationAvailability": "Monday, Wednesday, Friday: 10:00 AM – 3:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Rajesh Sundararaman has performed over 1,800 successful renal transplants with a 98.4% 1-year graft survival rate, frequently working with international kidney transplant boards.",
+      "verified": true,
+      "consultationFeeINR": 2200
+    },
+    {
+      "id": "doc-deepak-miot",
+      "hospitalId": "hosp-miot-chennai",
+      "hospitalName": "MIOT International, Manapakkam",
+      "city": "Chennai",
+      "name": "Dr. Deepak Ramanathan",
+      "title": "Chief of Orthopedic Surgery & Pin-Hole Joint Care",
+      "department": "Orthopedics & Joint Reconstruction",
+      "specialty": "Orthopedics & Minimal Access Joint Surgery",
+      "areasOfExpertise": [
+        "Computer-Navigated Total Knee Arthroplasty",
+        "Pelvic Acetabular Reconstruction",
+        "Revision Hip Surgery",
+        "Complex Trauma Reconstruction"
+      ],
+      "experienceYears": 23,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi",
+        "French"
+      ],
+      "qualifications": [
+        "MBBS - Kilpauk Medical College",
+        "MS (Orthopedics) - CMC Vellore",
+        "Fellowship in Arthroplasty - Tubingen, Germany"
+      ],
+      "consultationAvailability": "Tuesday to Saturday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Renowned for computer-guided minimally invasive joint procedures at MIOT, Dr. Deepak assists international patients with early post-surgical rehabilitation and rapid flight clearance.",
+      "verified": true,
+      "consultationFeeINR": 1900
+    },
+    {
+      "id": "doc-alok-medanta",
+      "hospitalId": "hosp-medanta-gurugram",
+      "hospitalName": "Medanta — The Medicity",
+      "city": "Delhi NCR",
+      "name": "Dr. Alok Sharma",
+      "title": "Director — Clinical & Interventional Cardiology",
+      "department": "Cardiac Sciences",
+      "specialty": "Cardiology & Structural Heart Interventions",
+      "areasOfExpertise": [
+        "Complex CTO Angioplasty",
+        "Transcatheter Aortic Valve Implantation (TAVI)",
+        "Rotablation",
+        "Intravascular Ultrasound (IVUS) Guided Stenting"
+      ],
+      "experienceYears": 24,
+      "languages": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ],
+      "qualifications": [
+        "MBBS - AIIMS New Delhi",
+        "MD (Medicine)",
+        "DM (Cardiology) - AIIMS New Delhi",
+        "FACC (USA)"
+      ],
+      "consultationAvailability": "Monday to Thursday: 10:00 AM – 3:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Alok Sharma has conducted over 9,000 interventional coronary procedures with international distinction in complex percutaneous coronary interventions at Medanta.",
+      "verified": true,
+      "consultationFeeINR": 2500
+    },
+    {
+      "id": "doc-sunita-fmri",
+      "hospitalId": "hosp-fortis-gurgaon",
+      "hospitalName": "Fortis Memorial Research Institute (FMRI)",
+      "city": "Delhi NCR",
+      "name": "Dr. Sunita Kulkarni",
+      "title": "Senior Director — Robotic Surgical Oncology",
+      "department": "Oncology",
+      "specialty": "Oncology & Comprehensive Cancer Care",
+      "areasOfExpertise": [
+        "Robotic Gynecologic Oncology",
+        "Da Vinci Xi Robotic GI Surgery",
+        "Cytoreductive Surgery & HIPEC",
+        "Breast Conservative Surgery"
+      ],
+      "experienceYears": 21,
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Arabic (Basic)"
+      ],
+      "qualifications": [
+        "MBBS - Grant Medical College Mumbai",
+        "MS (Surgery)",
+        "DNB (Surgical Oncology) - Tata Memorial Hospital",
+        "Robotic Fellowship - Roswell Park, USA"
+      ],
+      "consultationAvailability": "Monday, Wednesday, Friday: 10:30 AM – 3:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1594824813511-209252327c19?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Sunita leads the International Oncology Tumor Board at Fortis Gurugram, coordinating multidisciplinary tumor management for international patients.",
+      "verified": true,
+      "consultationFeeINR": 2400
+    },
+    {
+      "id": "doc-vikram-max",
+      "hospitalId": "hosp-max-delhi",
+      "hospitalName": "Max Super Speciality Hospital, Saket",
+      "city": "Delhi NCR",
+      "name": "Dr. Vikram Kashyap",
+      "title": "Chairman — Neurosciences & Functional Neurosurgery",
+      "department": "Neurosciences",
+      "specialty": "Neurology & Neurosurgery",
+      "areasOfExpertise": [
+        "Deep Brain Stimulation (DBS)",
+        "Minimally Invasive Spine Surgery (MISS)",
+        "Epilepsy Surgery",
+        "Microvascular Decompression"
+      ],
+      "experienceYears": 27,
+      "languages": [
+        "English",
+        "Hindi",
+        "Russian (Basic)"
+      ],
+      "qualifications": [
+        "MBBS - Maulana Azad Medical College",
+        "MCh (Neurosurgery) - GB Pant Hospital",
+        "Fellowship in Functional Neurosurgery - Cleveland Clinic, USA"
+      ],
+      "consultationAvailability": "Monday to Friday: 10:00 AM – 2:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=500&q=80",
+      "bio": "A pioneer of DBS for Parkinsonian disorders and complex spinal endoscopy in North India, Dr. Kashyap evaluates international neurological referrals weekly at Max Saket.",
+      "verified": true,
+      "consultationFeeINR": 2600
+    },
+    {
+      "id": "doc-neha-max",
+      "hospitalId": "hosp-max-delhi",
+      "hospitalName": "Max Super Speciality Hospital, Saket",
+      "city": "Delhi NCR",
+      "name": "Dr. Neha Agarwal",
+      "title": "Senior Consultant Plastic & Reconstructive Surgery",
+      "department": "Cosmetic & Reconstructive Surgery",
+      "specialty": "Cosmetic surgery & Aesthetic Medicine",
+      "areasOfExpertise": [
+        "Rhinoplasty",
+        "Body Contouring & Liposuction",
+        "Microvascular Free Flap Reconstruction",
+        "Aesthetic Facial Rejuvenation"
+      ],
+      "experienceYears": 17,
+      "languages": [
+        "English",
+        "Hindi",
+        "French"
+      ],
+      "qualifications": [
+        "MBBS - Lady Hardinge Medical College",
+        "MS (Surgery)",
+        "MCh (Plastic Surgery) - PGIMER Chandigarh",
+        "EBOPRAS Fellow - Brussels"
+      ],
+      "consultationAvailability": "Tuesday, Thursday, Saturday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Neha Agarwal delivers refined cosmetic outcomes and reconstruction with complete privacy for medical travelers seeking high-standard aesthetic care at Max Saket.",
+      "verified": true,
+      "consultationFeeINR": 2000
+    },
+    {
+      "id": "doc-ravi-narayana",
+      "hospitalId": "hosp-narayana-bangalore",
+      "hospitalName": "Narayana Health City",
+      "city": "Bengaluru",
+      "name": "Dr. Ravi Shankar Iyer",
+      "title": "Senior Consultant — Pediatric & Congenital Cardiac Surgery",
+      "department": "Cardiac Sciences",
+      "specialty": "Cardiology & Pediatric Cardiac Care",
+      "areasOfExpertise": [
+        "Tetralogy of Fallot Repair",
+        "Arterial Switch Operation",
+        "Ventricular Septal Defect Closure",
+        "Minimally Invasive Congenital Repair"
+      ],
+      "experienceYears": 22,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Tamil"
+      ],
+      "qualifications": [
+        "MBBS - St. Johns Medical College Bangalore",
+        "MS (Surgery)",
+        "MCh (CTVS) - Narayana Hrudayalaya Institute"
+      ],
+      "consultationAvailability": "Monday to Friday: 9:30 AM – 2:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Ravi Shankar Iyer coordinates pediatric heart surgical missions and manages international infant heart surgeries with world-class pediatric ICU support at Narayana Health City.",
+      "verified": true,
+      "consultationFeeINR": 1800
+    },
+    {
+      "id": "doc-shalini-narayana",
+      "hospitalId": "hosp-narayana-bangalore",
+      "hospitalName": "Narayana Health City",
+      "city": "Bengaluru",
+      "name": "Dr. Shalini Nair",
+      "title": "Director — Institute of Digestive & Hepatobiliary Sciences",
+      "department": "Gastroenterology",
+      "specialty": "Gastroenterology & Hepatology",
+      "areasOfExpertise": [
+        "Therapeutic Endoscopy & ERCP",
+        "Liver Cirrhosis Management",
+        "Inflammatory Bowel Disease (IBD)",
+        "Endoscopic Ultrasound (EUS)"
+      ],
+      "experienceYears": 19,
+      "languages": [
+        "English",
+        "Malayalam",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualifications": [
+        "MBBS - Trivandrum Medical College",
+        "MD (General Medicine)",
+        "DM (Gastroenterology) - SGPGI Lucknow",
+        "FRCP (Glasgow)"
+      ],
+      "consultationAvailability": "Monday to Saturday: 10:00 AM – 3:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1594824813511-209252327c19?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Shalini Nair leads advanced therapeutic endoscopy and complex liver evaluation protocols, providing comprehensive gastrointestinal workups for overseas patients.",
+      "verified": true,
+      "consultationFeeINR": 1900
+    },
+    {
+      "id": "doc-siddharth-kokilaben",
+      "hospitalId": "hosp-kokilaben-mumbai",
+      "hospitalName": "Kokilaben Dhirubhai Ambani Hospital",
+      "city": "Mumbai",
+      "name": "Dr. Siddharth Deshmukh",
+      "title": "Head of Interventional Cardiology & Structural Heart",
+      "department": "Cardiac Sciences",
+      "specialty": "Cardiology & Heart Failure Management",
+      "areasOfExpertise": [
+        "Transcatheter Valve Therapy",
+        "MitraClip Interventions",
+        "High-Risk Coronary Angioplasty",
+        "Cardiac Resynchronization Therapy"
+      ],
+      "experienceYears": 23,
+      "languages": [
+        "English",
+        "Marathi",
+        "Hindi",
+        "Gujarati"
+      ],
+      "qualifications": [
+        "MBBS - King Edward Memorial (KEM) Mumbai",
+        "MD (Medicine)",
+        "DM (Cardiology) - KEM Mumbai",
+        "Fellow in Interventional Cardiology - Mount Sinai, New York"
+      ],
+      "consultationAvailability": "Monday, Wednesday, Friday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Deshmukh has established Mumbai’s leading structural heart and transcatheter valve program at Kokilaben Hospital, serving patients across the Gulf and Africa.",
+      "verified": true,
+      "consultationFeeINR": 2300
+    },
+    {
+      "id": "doc-tanvi-kokilaben",
+      "hospitalId": "hosp-kokilaben-mumbai",
+      "hospitalName": "Kokilaben Dhirubhai Ambani Hospital",
+      "city": "Mumbai",
+      "name": "Dr. Tanvi Parekh",
+      "title": "Consultant Plastic, Cosmetic & Microvascular Surgeon",
+      "department": "Cosmetic & Reconstructive Surgery",
+      "specialty": "Cosmetic surgery & Body Sculpting",
+      "areasOfExpertise": [
+        "High-Definition Liposuction",
+        "Mummy Makeover Surgery",
+        "Blepharoplasty & Facelift",
+        "Breast Augmentation & Reduction"
+      ],
+      "experienceYears": 16,
+      "languages": [
+        "English",
+        "Gujarati",
+        "Hindi",
+        "Spanish (Basic)"
+      ],
+      "qualifications": [
+        "MBBS - DY Patil Medical College Mumbai",
+        "MS (Surgery)",
+        "MCh (Plastic Surgery) - Grant Medical College",
+        "Fellow in Aesthetic Surgery - Rio de Janeiro, Brazil"
+      ],
+      "consultationAvailability": "Tuesday, Thursday, Saturday: 10:00 AM – 2:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Tanvi Parekh provides advanced aesthetic and body sculpting surgeries with custom post-op recovery packages tailored for international cosmetic travelers.",
+      "verified": true,
+      "consultationFeeINR": 2200
+    },
+    {
+      "id": "doc-venkat-yashoda",
+      "hospitalId": "hosp-yashoda-hyderabad",
+      "hospitalName": "Yashoda Hospitals, Hitec City",
+      "city": "Hyderabad",
+      "name": "Dr. Venkat Ramana Rao",
+      "title": "Chief Neurologist & Director of Comprehensive Stroke Centre",
+      "department": "Neurosciences",
+      "specialty": "Neurology & Neuro-Rehabilitation",
+      "areasOfExpertise": [
+        "Acute Stroke Thrombolysis & Thrombectomy",
+        "Refractory Epilepsy Management",
+        "Movement Disorders",
+        "Neuro-Immunology"
+      ],
+      "experienceYears": 24,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Kannada"
+      ],
+      "qualifications": [
+        "MBBS - Osmania Medical College Hyderabad",
+        "MD (General Medicine) - NIMS Hyderabad",
+        "DM (Neurology) - AIIMS New Delhi",
+        "FRCP (London)"
+      ],
+      "consultationAvailability": "Monday to Friday: 10:00 AM – 3:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Venkat Ramana Rao leads Yashoda Hospital’s 24/7 dedicated neuro-interventional suite and tele-stroke international review panel.",
+      "verified": true,
+      "consultationFeeINR": 2000
+    },
+    {
+      "id": "doc-suresh-yashoda",
+      "hospitalId": "hosp-yashoda-hyderabad",
+      "hospitalName": "Yashoda Hospitals, Hitec City",
+      "city": "Hyderabad",
+      "name": "Dr. Suresh Reddy",
+      "title": "Senior Consultant Urologist & Robotic Renal Surgeon",
+      "department": "Urology & Renal Sciences",
+      "specialty": "Kidney/Urology & Robotic Surgery",
+      "areasOfExpertise": [
+        "Robotic Kidney Transplant",
+        "Holmium Laser Enucleation of Prostate (HoLEP)",
+        "Percutaneous Nephrolithotomy (PCNL)",
+        "Bladder Cancer Reconstruction"
+      ],
+      "experienceYears": 21,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Arabic (Basic)"
+      ],
+      "qualifications": [
+        "MBBS - Gandhi Medical College",
+        "MS (General Surgery)",
+        "MCh (Genito-Urinary Surgery) - NIMS Hyderabad"
+      ],
+      "consultationAvailability": "Tuesday to Saturday: 11:00 AM – 4:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Suresh Reddy has managed complex renal stone disease and laparoscopic kidney surgeries for international patients traveling to Hyderabad.",
+      "verified": true,
+      "consultationFeeINR": 1900
+    },
+    {
+      "id": "doc-thomas-aster",
+      "hospitalId": "hosp-aster-kochi",
+      "hospitalName": "Aster Medcity, Cheranallur",
+      "city": "Kochi",
+      "name": "Dr. Mathew Thomas",
+      "title": "Director — Institute of Liver Diseases & Multi-Organ Transplantation",
+      "department": "Organ Transplants",
+      "specialty": "General surgery & Liver Transplantation",
+      "areasOfExpertise": [
+        "Living Donor Liver Transplantation",
+        "Pediatric Liver Transplant",
+        "Complex Hepato-Pancreato-Biliary (HPB) Resections",
+        "Laparoscopic Donor Hepatectomy"
+      ],
+      "experienceYears": 26,
+      "languages": [
+        "English",
+        "Malayalam",
+        "Hindi",
+        "Arabic"
+      ],
+      "qualifications": [
+        "MBBS - Government Medical College Kottayam",
+        "MS (Surgery) - AIIMS New Delhi",
+        "FRCS (Glasgow)",
+        "Fellow in Liver Transplant - King’s College Hospital, London"
+      ],
+      "consultationAvailability": "Monday, Wednesday, Friday: 9:30 AM – 2:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Mathew Thomas directs Aster Medcity’s celebrated quaternary transplant team in Kerala, regularly performing liver surgeries for GCC and Maldives travelers.",
+      "verified": true,
+      "consultationFeeINR": 2200
+    },
+    {
+      "id": "doc-anjali-aster",
+      "hospitalId": "hosp-aster-kochi",
+      "hospitalName": "Aster Medcity, Cheranallur",
+      "city": "Kochi",
+      "name": "Dr. Anjali Menon",
+      "title": "Consultant Medical Gastroenterologist",
+      "department": "Gastroenterology",
+      "specialty": "Gastroenterology & Luminal Health",
+      "areasOfExpertise": [
+        "Advanced Diagnostic & Therapeutic Colonoscopy",
+        "Capsule Endoscopy",
+        "Gastrointestinal Bleed Management",
+        "Functional Gut Disorders"
+      ],
+      "experienceYears": 15,
+      "languages": [
+        "English",
+        "Malayalam",
+        "Hindi",
+        "Tamil"
+      ],
+      "qualifications": [
+        "MBBS - Calicut Medical College",
+        "MD (Medicine)",
+        "DM (Gastroenterology) - Amrita Institute Kochi"
+      ],
+      "consultationAvailability": "Monday to Saturday: 10:30 AM – 3:30 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1594824813511-209252327c19?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Anjali Menon delivers personalized gastrointestinal diagnostics in Aster Medcity’s serene waterfront facility in Kochi.",
+      "verified": true,
+      "consultationFeeINR": 1700
+    },
+    {
+      "id": "doc-arun-apollo",
+      "hospitalId": "hosp-apollo-chennai",
+      "hospitalName": "Apollo Hospitals, Greams Road",
+      "city": "Chennai",
+      "name": "Dr. Arun Balasubramanian",
+      "title": "Senior Consultant — Minimal Access, Bariatric & GI Surgery",
+      "department": "General surgery",
+      "specialty": "General surgery & Laparoscopy",
+      "areasOfExpertise": [
+        "Laparoscopic Cholecystectomy & Hernia Repair",
+        "Bariatric & Sleeve Gastrectomy",
+        "Colorectal Resection",
+        "Single-Incision Laparoscopic Surgery"
+      ],
+      "experienceYears": 20,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi",
+        "Telugu"
+      ],
+      "qualifications": [
+        "MBBS - Madras Medical College",
+        "MS (General Surgery)",
+        "MRCS (England)",
+        "FIAGES (Minimal Access Surgery)"
+      ],
+      "consultationAvailability": "Monday to Friday: 10:00 AM – 3:00 PM IST",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=500&q=80",
+      "bio": "Dr. Arun Balasubramanian provides day-care and short-stay minimal access laparoscopic procedures for international patients with rapid post-operative recovery timelines.",
+      "verified": true,
+      "consultationFeeINR": 1800
+    }
+  ],
+  "treatments": [
+    {
+      "id": "treat-kidney-transplant",
+      "name": "Living Donor Kidney Transplant & Nephrectomy",
+      "category": "Kidney/Urology",
+      "averageCostINR": 350000,
+      "approxRangeINR": {
+        "min": 250000,
+        "max": 480000
+      },
+      "usCostUSD": 280000,
+      "ukCostGBP": 95000,
+      "bangladeshCostBDT": 650000,
+      "typicalHospitalStayDays": 8,
+      "typicalCityStayDays": 21,
+      "description": "Renal transplant surgery utilizing a compatible living donor graft, conducted in state-of-the-art sterile transplant suites with NOTTO authorization committee approval.",
+      "commonIndications": [
+        "End-Stage Renal Disease (ESRD)",
+        "Chronic Kidney Disease Stage 5",
+        "Refractory Glomerulonephritis"
+      ],
+      "preOpDiagnostics": [
+        "HLA Cross-Match & Tissue Typing",
+        "Renal Doppler Ultrasound",
+        "DTPA Renal Dynamic Scan",
+        "Cardiac Stress Clearance"
+      ],
+      "recoveryHighlights": "Immediate urine output monitoring in Transplant ICU; discharge on day 7-8. Regular immunosuppressant blood trough titration for 2 weeks."
+    },
+    {
+      "id": "treat-robotic-prostate",
+      "name": "Robotic Radical Prostatectomy / Kidney Reconstruction",
+      "category": "Kidney/Urology",
+      "averageCostINR": 320000,
+      "approxRangeINR": {
+        "min": 220000,
+        "max": 420000
+      },
+      "usCostUSD": 65000,
+      "ukCostGBP": 28000,
+      "bangladeshCostBDT": 550000,
+      "typicalHospitalStayDays": 4,
+      "typicalCityStayDays": 12,
+      "description": "Da Vinci robot-assisted minimally invasive kidney reconstruction, partial nephrectomy, or radical prostatectomy with nerve-sparing technique.",
+      "commonIndications": [
+        "Localized Renal Cell Carcinoma",
+        "Prostate Malignancy",
+        "Pelviureteric Junction (PUJ) Obstruction"
+      ],
+      "preOpDiagnostics": [
+        "Multiparametric MRI Pelvis/Abdomen",
+        "Serum PSA",
+        "CT Urogram",
+        "Renal Function Panel"
+      ],
+      "recoveryHighlights": "Minimal blood loss, catheter removal within 5-7 days, rapid return to walking within 24 hours."
+    },
+    {
+      "id": "treat-cabg",
+      "name": "Coronary Artery Bypass Grafting (CABG)",
+      "category": "Cardiology",
+      "averageCostINR": 420000,
+      "approxRangeINR": {
+        "min": 350000,
+        "max": 580000
+      },
+      "usCostUSD": 95000,
+      "ukCostGBP": 42000,
+      "bangladeshCostBDT": 850000,
+      "typicalHospitalStayDays": 6,
+      "typicalCityStayDays": 14,
+      "description": "Surgical procedure to restore normal blood flow to an obstructed coronary artery using an arterial or venous conduit graft (on-pump or off-pump beating heart).",
+      "commonIndications": [
+        "Multi-vessel coronary artery disease",
+        "Left main coronary stenosis >50%",
+        "Angina refractory to medication and angioplasty"
+      ],
+      "preOpDiagnostics": [
+        "Coronary Angiography (CD/DVD report)",
+        "Echocardiogram (2D Echo)",
+        "Carotid Doppler",
+        "Renal Function Panel",
+        "Chest X-Ray & PFT"
+      ],
+      "recoveryHighlights": "Initial ambulation by day 2; discharge on day 5-7. Fit-to-fly clearance usually issued after day 12-14 follow-up stitch check."
+    },
+    {
+      "id": "treat-knee-replacement",
+      "name": "Robotic Total Knee Replacement (Unilateral / Bilateral)",
+      "category": "Orthopedics",
+      "averageCostINR": 320000,
+      "approxRangeINR": {
+        "min": 260000,
+        "max": 480000
+      },
+      "usCostUSD": 45000,
+      "ukCostGBP": 22000,
+      "bangladeshCostBDT": 580000,
+      "typicalHospitalStayDays": 4,
+      "typicalCityStayDays": 12,
+      "description": "Precision robotic or navigation-assisted replacement of damaged knee cartilage and bone surfaces with biocompatible titanium/cobalt-chrome implants.",
+      "commonIndications": [
+        "Grade IV Osteoarthritis",
+        "Severe Rheumatoid Arthritis",
+        "Debilitating knee joint stiffness and chronic pain"
+      ],
+      "preOpDiagnostics": [
+        "Weight-Bearing Bilateral Knee X-Rays",
+        "Scanogram (Full length hip-to-ankle)",
+        "ECG & Cardiology Clearance"
+      ],
+      "recoveryHighlights": "Walker assisted walking within 12-24 hours. Physiotherapy initiated immediately. Air travel permissible 10-14 days post-op."
+    },
+    {
+      "id": "treat-bone-marrow",
+      "name": "Allogeneic / Autologous Bone Marrow Transplant (BMT)",
+      "category": "Oncology",
+      "averageCostINR": 1550000,
+      "approxRangeINR": {
+        "min": 1200000,
+        "max": 2400000
+      },
+      "usCostUSD": 350000,
+      "ukCostGBP": 160000,
+      "bangladeshCostBDT": 2800000,
+      "typicalHospitalStayDays": 24,
+      "typicalCityStayDays": 60,
+      "description": "High-dose conditioning chemotherapy followed by infusion of matched sibling or healthy blood stem cells in positive-pressure HEPA units.",
+      "commonIndications": [
+        "Acute Myeloid Leukemia (AML)",
+        "Relapsed Lymphoma",
+        "Severe Aplastic Anemia",
+        "Thalassemia Major"
+      ],
+      "preOpDiagnostics": [
+        "High-Resolution HLA Typing",
+        "Bone Marrow Aspirate & Biopsy",
+        "Viral Serology panel",
+        "ECHO & PFT"
+      ],
+      "recoveryHighlights": "Strict isolation in sterile laminar airflow room during engraftment. Outpatient stay required for ongoing blood counts."
+    },
+    {
+      "id": "treat-brain-tumor",
+      "name": "Minimally Invasive Craniotomy & Brain Tumor Resection",
+      "category": "Neurology",
+      "averageCostINR": 520000,
+      "approxRangeINR": {
+        "min": 420000,
+        "max": 750000
+      },
+      "usCostUSD": 110000,
+      "ukCostGBP": 55000,
+      "bangladeshCostBDT": 950000,
+      "typicalHospitalStayDays": 6,
+      "typicalCityStayDays": 16,
+      "description": "Image-guided neuronavigation or endoscopic microsurgical resection of intracranial benign or malignant lesions, preserving eloquent motor areas.",
+      "commonIndications": [
+        "Glioblastoma",
+        "Meningioma",
+        "Pituitary Macroadenoma",
+        "Acoustic Neuroma / Schwannoma"
+      ],
+      "preOpDiagnostics": [
+        "Contrast MRI Brain with Spectroscopy",
+        "Visual Evoked Potentials",
+        "Pre-anesthetic safety profile"
+      ],
+      "recoveryHighlights": "Intensive neurological monitoring in Neuro-ICU for 48 hours. Stitch removal at 10-12 days before flight clearance."
+    },
+    {
+      "id": "treat-liver-transplant",
+      "name": "Living Donor Liver Transplantation (LDLT)",
+      "category": "Gastroenterology",
+      "averageCostINR": 2300000,
+      "approxRangeINR": {
+        "min": 1900000,
+        "max": 2800000
+      },
+      "usCostUSD": 480000,
+      "ukCostGBP": 210000,
+      "bangladeshCostBDT": 4200000,
+      "typicalHospitalStayDays": 18,
+      "typicalCityStayDays": 45,
+      "description": "Surgical excision of diseased liver and implantation of a partial liver graft harvested from an approved living related donor.",
+      "commonIndications": [
+        "End-Stage Liver Disease (Cirrhosis)",
+        "Hepatocellular Carcinoma",
+        "Biliary Atresia"
+      ],
+      "preOpDiagnostics": [
+        "Triphasic CT Liver & Liver Volumetry",
+        "Donor Genetic & HLA verification",
+        "NOTTO Authorization Clearance"
+      ],
+      "recoveryHighlights": "Donor discharged in 6-8 days with rapid liver regeneration. Recipient observed in transplant ICU for 5 days."
+    },
+    {
+      "id": "treat-cosmetic-rhino",
+      "name": "Aesthetic Rhinoplasty & Facial Rejuvenation",
+      "category": "Cosmetic surgery",
+      "averageCostINR": 180000,
+      "approxRangeINR": {
+        "min": 140000,
+        "max": 280000
+      },
+      "usCostUSD": 18000,
+      "ukCostGBP": 9500,
+      "bangladeshCostBDT": 320000,
+      "typicalHospitalStayDays": 1,
+      "typicalCityStayDays": 7,
+      "description": "Cosmetic and functional reshaping of nasal bones and cartilage to correct breathing airway obstructions and enhance facial harmony.",
+      "commonIndications": [
+        "Deviated Nasal Septum",
+        "Dorsal Hump / Aesthetic Reshaping",
+        "Post-Traumatic Deformity"
+      ],
+      "preOpDiagnostics": [
+        "High-Resolution Facial 3D Photography",
+        "Diagnostic Nasal Endoscopy",
+        "Bleeding Profile (PT/INR)"
+      ],
+      "recoveryHighlights": "Nasal splint removed after 6-7 days. Bruising resolves within 10 days; safe to fly after 1 week."
+    },
+    {
+      "id": "treat-lap-hernia-gi",
+      "name": "Advanced Laparoscopic Gastrointestinal & Hernia Repair",
+      "category": "General surgery",
+      "averageCostINR": 160000,
+      "approxRangeINR": {
+        "min": 120000,
+        "max": 240000
+      },
+      "usCostUSD": 22000,
+      "ukCostGBP": 11000,
+      "bangladeshCostBDT": 280000,
+      "typicalHospitalStayDays": 2,
+      "typicalCityStayDays": 7,
+      "description": "Keyhole laparoscopic anatomical repair with biocompatible dual-surface mesh reinforcement or laparoscopic cholecystectomy for gallstones.",
+      "commonIndications": [
+        "Bilateral Inguinal Hernia",
+        "Complex Ventral/Incisional Hernia",
+        "Symptomatic Cholelithiasis (Gallbladder stones)"
+      ],
+      "preOpDiagnostics": [
+        "Abdominal Ultrasound / Contrast CT Abdomen",
+        "Pre-operative Anesthetic clearance",
+        "Routine laboratory panels"
+      ],
+      "recoveryHighlights": "Discharge within 24-48 hours. Light walking the same evening. Normal travel permissible within 5-7 days."
+    }
+  ],
+  "cities": [
+    {
+      "id": "city-chennai",
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "airportName": "Chennai International Airport",
+      "airportCode": "MAA",
+      "airportToCenterKm": 16,
+      "topSpecialties": [
+        "Cardiology & Cardiac Surgery",
+        "Oncology",
+        "Eye & Ophthalmology",
+        "Orthopedics"
+      ],
+      "knownFor": "Known as the \"Health Capital of India\", treating over 40% of international medical travelers, especially from Bangladesh, Sri Lanka, and Africa.",
+      "languagesCommon": [
+        "Tamil",
+        "English",
+        "Bengali (widely understood around hospital zones)",
+        "Hindi"
+      ],
+      "climateNote": "Tropical and warm year-round; light cotton attire recommended. Best travel months: November to February.",
+      "approxDailyLivingINR": 2200,
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 28,
+      "verifiedHotelsCount": 42
+    },
+    {
+      "id": "city-delhi-ncr",
+      "name": "Delhi NCR",
+      "state": "Delhi / Haryana",
+      "airportName": "Indira Gandhi International Airport",
+      "airportCode": "DEL",
+      "airportToCenterKm": 15,
+      "topSpecialties": [
+        "Quaternary Robotics",
+        "Neurosciences",
+        "Bone Marrow & Oncology",
+        "Pediatric Surgery"
+      ],
+      "knownFor": "World-class hospital infrastructure in Gurugram, South Delhi & Noida, with direct flights to over 140 global destinations.",
+      "languagesCommon": [
+        "Hindi",
+        "English",
+        "Arabic & Russian concierges at major hubs"
+      ],
+      "climateNote": "Hot summers (May-July), pleasant autumn/spring, chilly winter (Dec-Jan).",
+      "approxDailyLivingINR": 2800,
+      "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 35,
+      "verifiedHotelsCount": 56
+    },
+    {
+      "id": "city-mumbai",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "airportName": "Chhatrapati Shivaji Maharaj International Airport",
+      "airportCode": "BOM",
+      "airportToCenterKm": 12,
+      "topSpecialties": [
+        "Oncology & Hematology",
+        "Robotic Surgery",
+        "Cosmetic & Aesthetic",
+        "Pediatric Cardiology"
+      ],
+      "knownFor": "Home to premier cancer institutes like Tata Memorial and ultra-modern quaternary hubs close to the international airport.",
+      "languagesCommon": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Gujarati"
+      ],
+      "climateNote": "Coastal climate with high humidity; heavy monsoon rains from June to September.",
+      "approxDailyLivingINR": 3500,
+      "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 24,
+      "verifiedHotelsCount": 38
+    },
+    {
+      "id": "city-bangalore",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "airportName": "Kempegowda International Airport",
+      "airportCode": "BLR",
+      "airportToCenterKm": 38,
+      "topSpecialties": [
+        "High-Capacity Cardiac Care",
+        "Joint Replacement",
+        "Neurology",
+        "Stem Cell Therapy"
+      ],
+      "knownFor": "Renowned for high-volume, cost-efficient cardiac surgeries led by global pioneers, coupled with a pleasant moderate climate.",
+      "languagesCommon": [
+        "English",
+        "Kannada",
+        "Hindi",
+        "Tamil",
+        "Bengali"
+      ],
+      "climateNote": "Mild, pleasant, and temperate throughout the year; ideal for post-operative recovery.",
+      "approxDailyLivingINR": 2600,
+      "image": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 22,
+      "verifiedHotelsCount": 34
+    },
+    {
+      "id": "city-hyderabad",
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "airportName": "Rajiv Gandhi International Airport",
+      "airportCode": "HYD",
+      "airportToCenterKm": 25,
+      "topSpecialties": [
+        "Organ & Lung Transplants",
+        "Gastroenterology",
+        "Spine Surgery",
+        "Robotic Onco-Surgery"
+      ],
+      "knownFor": "Major hub for thoracic surgeries, heart-lung transplants, and extensive Middle Eastern and African patient community support.",
+      "languagesCommon": [
+        "Telugu",
+        "Urdu / Hindi",
+        "English",
+        "Arabic in medical zones"
+      ],
+      "climateNote": "Warm tropical weather; moderate winter from November to February.",
+      "approxDailyLivingINR": 2300,
+      "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 19,
+      "verifiedHotelsCount": 29
+    },
+    {
+      "id": "city-kochi",
+      "name": "Kochi",
+      "state": "Kerala",
+      "airportName": "Cochin International Airport",
+      "airportCode": "COK",
+      "airportToCenterKm": 28,
+      "topSpecialties": [
+        "Holistic Medical Recovery",
+        "Orthopedic Rehabilitation",
+        "Cardiac Stenting",
+        "Wellness"
+      ],
+      "knownFor": "Blends international hospital care with serene backwaters and certified recuperation facilities.",
+      "languagesCommon": [
+        "Malayalam",
+        "English",
+        "Arabic (many hospital staff speak Arabic)",
+        "Hindi"
+      ],
+      "climateNote": "Tropical lush climate; moderate monsoon from June to August.",
+      "approxDailyLivingINR": 2100,
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "hospitalCount": 12,
+      "verifiedHotelsCount": 20
+    }
+  ],
+  "hotels": [
+    {
+      "id": "hotel-lemon-tree-chennai",
+      "name": "Lemon Tree Hotel, Shimona (Near Apollo & MIOT)",
+      "city": "Chennai",
+      "nearestHospitalId": "hosp-apollo-chennai",
+      "nearestHospitalName": "Apollo Hospitals, Greams Road",
+      "distanceToHospitalKm": 2.1,
+      "address": "31/3 Mount Poonamallee Road, Manapakkam / Thousand Lights Access, Chennai 600089",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "category": "3-Star Standard",
+      "pricePerNightINR": 3200,
+      "ratingScore": 4.6,
+      "reviewsCount": 184,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": true,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 44 4488 0000"
+    },
+    {
+      "id": "hotel-taj-club-chennai",
+      "name": "Taj Club House, Clubhouse Road",
+      "city": "Chennai",
+      "nearestHospitalId": "hosp-apollo-chennai",
+      "nearestHospitalName": "Apollo Hospitals, Greams Road",
+      "distanceToHospitalKm": 1.4,
+      "address": "No. 2, Club House Road, Anna Salai, Chennai 600002",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 7500,
+      "ratingScore": 4.9,
+      "reviewsCount": 310,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 44 6631 3131"
+    },
+    {
+      "id": "hotel-greams-service-apt",
+      "name": "Greams Residency Medical Serviced Apartments",
+      "city": "Chennai",
+      "nearestHospitalId": "hosp-apollo-chennai",
+      "nearestHospitalName": "Apollo Hospitals, Greams Road",
+      "distanceToHospitalKm": 0.3,
+      "address": "8 Greams Road, Thousand Lights, Chennai 600006",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+      "category": "Serviced Medical Apartment",
+      "pricePerNightINR": 2400,
+      "ratingScore": 4.5,
+      "reviewsCount": 142,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": true,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": false,
+        "hospitalShuttle": false,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 44 2829 1199"
+    },
+    {
+      "id": "hotel-courtyard-gurgaon",
+      "name": "Courtyard by Marriott Gurugram (Near Fortis & Medanta)",
+      "city": "Delhi NCR",
+      "nearestHospitalId": "hosp-fortis-gurgaon",
+      "nearestHospitalName": "Fortis Memorial Research Institute (FMRI)",
+      "distanceToHospitalKm": 0.8,
+      "address": "Sector 27, Sushant Lok Phase I, Gurugram 122002",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 6200,
+      "ratingScore": 4.8,
+      "reviewsCount": 220,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 124 488 8444"
+    },
+    {
+      "id": "hotel-medanta-suites-gurgaon",
+      "name": "Medanta Care Stay Executive Suites",
+      "city": "Delhi NCR",
+      "nearestHospitalId": "hosp-medanta-gurugram",
+      "nearestHospitalName": "Medanta — The Medicity",
+      "distanceToHospitalKm": 0.5,
+      "address": "Near Medanta Gate 2, Sector 38, Gurugram 122001",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80",
+      "category": "Serviced Medical Apartment",
+      "pricePerNightINR": 2800,
+      "ratingScore": 4.7,
+      "reviewsCount": 195,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": true,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 124 429 7800"
+    },
+    {
+      "id": "hotel-radisson-gurgaon",
+      "name": "Radisson Gurugram Sohna Road (Near Medanta)",
+      "city": "Delhi NCR",
+      "nearestHospitalId": "hosp-medanta-gurugram",
+      "nearestHospitalName": "Medanta — The Medicity",
+      "distanceToHospitalKm": 3.2,
+      "address": "Main Sohna Road, Sector 49, Gurugram 122018",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 5800,
+      "ratingScore": 4.7,
+      "reviewsCount": 165,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 124 495 7777"
+    },
+    {
+      "id": "hotel-narayana-guest-bangalore",
+      "name": "Narayana Health City Patient Guest House",
+      "city": "Bengaluru",
+      "nearestHospitalId": "hosp-narayana-bangalore",
+      "nearestHospitalName": "Narayana Health City",
+      "distanceToHospitalKm": 0.2,
+      "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru 560099",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80",
+      "category": "Budget Guesthouse",
+      "pricePerNightINR": 1800,
+      "ratingScore": 4.6,
+      "reviewsCount": 230,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": true,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 80 7122 2222"
+    },
+    {
+      "id": "hotel-oberoi-bangalore",
+      "name": "The Oberoi Bengaluru (MG Road Access)",
+      "city": "Bengaluru",
+      "nearestHospitalId": "hosp-narayana-bangalore",
+      "nearestHospitalName": "Narayana Health City",
+      "distanceToHospitalKm": 18,
+      "address": "37-39, MG Road, Yellappa Garden, Bengaluru 560001",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 9500,
+      "ratingScore": 4.9,
+      "reviewsCount": 380,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 80 2558 5858"
+    },
+    {
+      "id": "hotel-trident-mumbai",
+      "name": "Trident Hotel Bandra Kurla (Near Kokilaben & Lilavati)",
+      "city": "Mumbai",
+      "nearestHospitalId": "hosp-kokilaben-mumbai",
+      "nearestHospitalName": "Kokilaben Dhirubhai Ambani Hospital",
+      "distanceToHospitalKm": 7.5,
+      "address": "C 56, G Block, Bandra Kurla Complex, Mumbai 400098",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 8800,
+      "ratingScore": 4.9,
+      "reviewsCount": 420,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 22 6672 7777"
+    },
+    {
+      "id": "hotel-kokilaben-suite-mumbai",
+      "name": "Andheri West Medical Stay Serviced Apartments",
+      "city": "Mumbai",
+      "nearestHospitalId": "hosp-kokilaben-mumbai",
+      "nearestHospitalName": "Kokilaben Dhirubhai Ambani Hospital",
+      "distanceToHospitalKm": 0.6,
+      "address": "Four Bungalows, Andheri West, Mumbai 400053",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+      "category": "Serviced Medical Apartment",
+      "pricePerNightINR": 3400,
+      "ratingScore": 4.6,
+      "reviewsCount": 154,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": true,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 22 2630 1122"
+    },
+    {
+      "id": "hotel-marriott-hyderabad",
+      "name": "Hyderabad Marriott Hotel & Convention Centre",
+      "city": "Hyderabad",
+      "nearestHospitalId": "hosp-yashoda-hyderabad",
+      "nearestHospitalName": "Yashoda Hospitals, Hitec City",
+      "distanceToHospitalKm": 4.2,
+      "address": "Tank Bund Road, Opposite Hussain Sagar Lake, Hyderabad 500080",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 6500,
+      "ratingScore": 4.8,
+      "reviewsCount": 290,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 40 2752 2999"
+    },
+    {
+      "id": "hotel-grand-hyatt-kochi",
+      "name": "Grand Hyatt Kochi Bolgatty (Near Aster Medcity)",
+      "city": "Kochi",
+      "nearestHospitalId": "hosp-aster-kochi",
+      "nearestHospitalName": "Aster Medcity, Cheranallur",
+      "distanceToHospitalKm": 6.8,
+      "address": "Bolgatty Island, Kochi 682504",
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&q=80",
+      "category": "4-Star Premium",
+      "pricePerNightINR": 7200,
+      "ratingScore": 4.9,
+      "reviewsCount": 340,
+      "isVerifiedPartner": true,
+      "medicalPatientFriendlyFeatures": {
+        "wheelchairAccessible": true,
+        "elevator": true,
+        "kitchenetteAvailable": false,
+        "halalDietaryCustomization": true,
+        "nurseOnCall": true,
+        "hospitalShuttle": true,
+        "flexibleCancellation": true
+      },
+      "contactPhone": "+91 484 266 1234"
+    }
+  ],
+  "transports": [
+    {
+      "id": "trans-carewheels-van",
+      "name": "CareWheels Hydraulic Wheelchair Access Van",
+      "category": "Wheelchair Lift Van",
+      "description": "Specially modified van with hydraulic ramp, lockable floor anchors, oxygen cylinder slot, and trained medical attendant driver.",
+      "vehicleType": "Force Traveller / Tata Winger Special Mobility",
+      "capacityPassengers": 4,
+      "luggageCapacity": 4,
+      "basePriceINR": 2200,
+      "isWheelchairAccessible": true,
+      "features": [
+        "Hydraulic Wheelchair Ramp",
+        "Floor Lockdown Straps",
+        "Oxygen Bottle Bracket",
+        "Driver First-Aid Certified",
+        "AC Cabin"
+      ],
+      "partnerName": "CareWheels Medical Mobility India",
+      "partnerPhone": "+91 98840 12345",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-innova-airport",
+      "name": "Apollo / Airport VIP Arrival MPV (Innova Crysta)",
+      "category": "Airport Transfer",
+      "description": "Chauffeured arrival pickup at international arrivals with personalized patient name placard, mineral water, and direct hospital/hotel routing.",
+      "vehicleType": "Toyota Innova Crysta 7-Seater",
+      "capacityPassengers": 5,
+      "luggageCapacity": 4,
+      "basePriceINR": 1500,
+      "isWheelchairAccessible": false,
+      "features": [
+        "Terminal Gate Meet & Greet",
+        "Flight Delay Monitoring",
+        "Extra Legroom Reclining Seats",
+        "English & Hindi Speaking Chauffeur"
+      ],
+      "partnerName": "MedRoute Chauffeur Services",
+      "partnerPhone": "+91 98101 54321",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-sedan-hospital-shuttle",
+      "name": "Daily Hospital OPD Commuter Sedan",
+      "category": "Hospital Commute",
+      "description": "Daily fixed-rate roundtrip transfers between your hotel or guesthouse and the hospital consultation wings.",
+      "vehicleType": "Maruti Suzuki Dzire / Hyundai Aura Sedan",
+      "capacityPassengers": 3,
+      "luggageCapacity": 2,
+      "basePriceINR": 800,
+      "isWheelchairAccessible": false,
+      "features": [
+        "Flexible OPD Return Timings",
+        "GPS Real-Time Tracking",
+        "Clean Sanitized Daily Interior",
+        "Direct Drop at Hospital Portico"
+      ],
+      "partnerName": "CityHealth Cabs",
+      "partnerPhone": "+91 98400 98765",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-dedicated-stay",
+      "name": "Full Trip 7-Day Dedicated Chauffeur Car",
+      "category": "Full Stay Dedicated",
+      "description": "Private car and driver at patient and family disposal 10 hours daily for diagnostic visits, pharmacy errands, and local transport.",
+      "vehicleType": "Toyota Innova / Ertiga Multi-Utility Vehicle",
+      "capacityPassengers": 6,
+      "luggageCapacity": 5,
+      "basePriceINR": 14500,
+      "isWheelchairAccessible": false,
+      "features": [
+        "Dedicated Driver for Entire Week",
+        "Unlimited Hospital Runs within City",
+        "Attendant Airport Drop Included",
+        "Toll & Fuel Included"
+      ],
+      "partnerName": "MedRoute Chauffeur Services",
+      "partnerPhone": "+91 98101 54321",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-airport-return",
+      "name": "Departure Airport Drop & Porter Escort",
+      "category": "Airport Transfer",
+      "description": "Scheduled departure transfer from hospital or hotel to international departure terminal with baggage assistance and wheel-assist handover.",
+      "vehicleType": "Toyota Innova Crysta / Luxury Van",
+      "capacityPassengers": 5,
+      "luggageCapacity": 5,
+      "basePriceINR": 1600,
+      "isWheelchairAccessible": false,
+      "features": [
+        "Airline Check-in Curbside Assistance",
+        "Flexible Departure Timings",
+        "Spacious Cargo for Medical Gear",
+        "English-Speaking Driver"
+      ],
+      "partnerName": "MedRoute Chauffeur Services",
+      "partnerPhone": "+91 98101 54321",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-intercity-medical-van",
+      "name": "Intercity Sanitized Patient Transit Van",
+      "category": "Hospital Commute",
+      "description": "Long-distance patient transport between metropolitan medical centers, airports, and regional stay facilities with reclining stretcher/couch.",
+      "vehicleType": "Tempo Traveller High-Roof Medical Edition",
+      "capacityPassengers": 6,
+      "luggageCapacity": 6,
+      "basePriceINR": 4800,
+      "isWheelchairAccessible": true,
+      "features": [
+        "Reclining Medical Sleeper Berth",
+        "AC Dual Climate Control",
+        "Power Inverter for Medical Equipment",
+        "Bottled Water & First-Aid Kit"
+      ],
+      "partnerName": "CareWheels Medical Mobility India",
+      "partnerPhone": "+91 98840 12345",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "trans-luxury-recup",
+      "name": "Executive Soft-Suspension Recovery Sedan",
+      "category": "Hospital Commute",
+      "description": "Premium smooth-suspension executive vehicle designed for orthopedic and post-operative patients needing gentle transit over city roads.",
+      "vehicleType": "Toyota Camry Hybrid / Skoda Superb",
+      "capacityPassengers": 3,
+      "luggageCapacity": 3,
+      "basePriceINR": 1900,
+      "isWheelchairAccessible": false,
+      "features": [
+        "Ultra-Smooth Electronically Controlled Suspension",
+        "Orthopedic Cushioning Pillows",
+        "Whisper-Quiet Hybrid Drive",
+        "On-Demand Temperature Control"
+      ],
+      "partnerName": "CityHealth Cabs",
+      "partnerPhone": "+91 98400 98765",
+      "verified": true,
+      "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}
